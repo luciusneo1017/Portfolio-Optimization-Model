@@ -6,6 +6,6 @@ with the highest expected returns to standard deviation (as a measure of volatil
 
 Regarding what "constrained" means in this context, we refer to the simplest and most straightforward approach:
 1) Long positions only: $w_i \ge 0 \quad \forall\, i \in \{1,\ldots,n\}.$
-2) No Leverage is used: $\sum w_i \= 0 \quad \forall\, i \in \{1,\ldots,n\}.$
+2) No Leverage is used: $\sum w_i = 0 \quad \forall\, i \in \{1,\ldots,n\}.$
 
 
