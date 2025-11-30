@@ -5,6 +5,7 @@ The model is built according to a constrained MVO (Mean Variance Optimization) f
 with the highest expected returns to standard deviation (as a measure of volatility) ratio.
 
 Regarding what "constrained" means in this context, we refer to the simplest and most straightforward approach:
-1) Long positions only, $w_i \ge 0 \quad \forall\, i \in \{1,\ldots,n\}.$
+1) Long positions only: $w_i \ge 0 \quad \forall\, i \in \{1,\ldots,n\}.$
+2) No Leverage is used: $\sum w_i \e 0 \quad \forall\, i \in \{1,\ldots,n\}.$
 
 
